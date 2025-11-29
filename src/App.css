@@ -1,0 +1,8 @@
+.navbar {
+  background-image: url(../src/assets/navbar-bg.png);
+  background-size: cover;
+}
+.black {
+  background-image: url(../src/assets/black-bg.png);
+  
+}
